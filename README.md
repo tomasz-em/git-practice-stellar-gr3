@@ -1,3 +1,12 @@
+# Projekt grupowej współpracy - Grupa 3: *Najlepszy Warsztat Samochodowy*
+
+### Symulacja podziału zagadanień do wykonania z ich realizacją przez przez Członków Zespołu Grupy nr 3. Wysyłanie wyników poszczególnych zadań przez ich realizatorów i łączenie wycików prac, celem całościowego wykonania zadania i unikania przy tym konfliktów (lub dążenie do minimalizacji konfliktów zakresów).
+
+## Podgląd wypracowanej wersji  - [https://matt-burr.github.io/Stellar-Gr3/](https://matt-burr.github.io/Stellar-Gr3/)
+
+### Wykonano *pospiesznie* w oparciu o szablon *Stellar* z *HTML5 UP*.
+-----
+
 Stellar by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
